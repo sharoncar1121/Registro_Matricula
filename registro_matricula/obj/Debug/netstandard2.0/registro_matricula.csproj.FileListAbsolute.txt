@@ -1,0 +1,16 @@
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\Views\ViewMatricula.xaml.g.cs
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.AssemblyInfoInputs.cache
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.AssemblyInfo.cs
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\bin\Debug\netstandard2.0\registro_matricula.deps.json
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\bin\Debug\netstandard2.0\registro_matricula.dll
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\bin\Debug\netstandard2.0\registro_matricula.pdb
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.dll
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\refint\registro_matricula.dll
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\registro_matricula.pdb
+C:\Users\sharo\source\repos\registro_matricula\registro_matricula\obj\Debug\netstandard2.0\ref\registro_matricula.dll

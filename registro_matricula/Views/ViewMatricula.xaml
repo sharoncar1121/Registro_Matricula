@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:registro_matricula.ViewModels"
+             x:Class="registro_matricula.Views.ViewMatricula"
+             Title="Matricula">
+
+
+    <ContentPage.BindingContext>
+        <local:matriculaviewmodel></local:matriculaviewmodel>
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <Label Text="Ingrese Nombre" FontSize="20" />
+        <Entry Text="{Binding Nombre}"  Keyboard="Text" ></Entry>
+        <Label Text="Ingrese Fecha de Matricula" FontSize="20" />
+        <Entry Text="{Binding fecha_matricula}"  Keyboard="Text" ></Entry>
+        <Label Text="Ingrese Tipo de matricula" FontSize="20" />
+        <Entry Text="{Binding tipomatricula}"  Keyboard="Text" ></Entry>
+
+        <Button Command="{Binding CrearMatricula}" Text="Registrar Matricula" />
+        <Button Command="{Binding AbrirLista}" Text="Abrir Lista"/>
+        <Button Command="{Binding LimpiarLista}" Text="Limpiar Lista"/>
+
+        <Label Text="{Binding Info}" FontSize="25"/>
+    </StackLayout>
+</ContentPage>
